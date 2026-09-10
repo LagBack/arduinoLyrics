@@ -38,8 +38,6 @@ This project only gets more fun with more songs, so contributions are very welco
 
 3. Open a pull request.
 
-No song is too weird or too niche — if you like it, add it.
-
 ## Contributing
 
 PRs and issues are always welcome. This is just a small personal project/library for songs, but the more people jump in with their own songs, the better it gets.
