@@ -1,7 +1,8 @@
 # arduinoLyrics 
 
 Show song lyrics, line by line, on a 16x2 LCD screen using an Arduino Uno.
-![arduino](assets/example.gif)
+
+<img src="assets/example.gif" width="400">
 
 ## What you need
 
