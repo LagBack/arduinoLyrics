@@ -11,7 +11,7 @@ void setup() {
   delay(800);
 
   lcd.print(".");
-  delay(2800);
+  delay(800);
 
   lcd.print(".");
   delay(800);
